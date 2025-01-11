@@ -5,6 +5,8 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
+![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
 
 #  Frameworks 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
