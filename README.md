@@ -10,7 +10,7 @@
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![Django](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=092E20)
 ![Flutter](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=flutter&color=02569B)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&color=DD1B16)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&color=7952B3)
 ![Tailwind CSS](https://img.shields.io/badge/Framework-Tailwind_CSS-informational?style=flat&logo=tailwind-css&color=06B6D4)
