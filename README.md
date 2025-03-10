@@ -30,5 +30,8 @@ With a deep passion for **Customer Experience, Complex ideas, Best practices,** 
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
 
+<h2><img src="https://slackmojis.com/emojis/60722-clown-face/download" width="30"/> My contributions </h2>
 
-https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg
+![snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
+
+
