@@ -29,3 +29,6 @@ With a deep passion for **Customer Experience, Complex ideas, Best practices,** 
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
 - 🚀 On a mission to push the boundaries of what's possible with code.
+
+
+https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg
