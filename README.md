@@ -1,5 +1,5 @@
-# 👋 Hey there, I'm Peniel Shakers!
-**Software Engineer. Navigating the shadows of the web, crafting echoes in the void.**
+# 👋 Hey there, I'm Peniel Shakers !
+**Software Engineer. Navigating the shadows of the web, crafting echoes in the void, and building seamless mobile experiences.**
 
 #  Languages 
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
@@ -7,6 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
 ![Dart](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&color=0175C2)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&color=007396)
 
 #  Frameworks 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
@@ -23,8 +24,9 @@
 
 # OS
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+![Windows](https://img.shields.io/badge/System-Windows-informational?style=flat&logo=windows&color=0078D6)
 
-With a deep passion for **Customer Experience, Complex ideas, Best practices,** I specialize in turning complex challenges into scalable, innovative solutions.
+With a deep passion for **Customer Experience, Complex ideas, Best practices,** I specialize in turning complex challenges into scalable, innovative solutions—whether on the web, in the cloud, or on mobile.
 
 - 🔭 Currently working on top-secret projects to reshape industries.
 - 🌱 Always expanding my knowledge and contributing to open-source communities.
@@ -33,5 +35,3 @@ With a deep passion for **Customer Experience, Complex ideas, Best practices,** 
 <h2><img src="https://slackmojis.com/emojis/60723-pc/download" width="30"/> Watch my contributions graph !</h2>
 
 ![snake gif](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
-
-
