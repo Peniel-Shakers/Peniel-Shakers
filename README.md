@@ -99,7 +99,7 @@ With a deep passion for **Customer Experience, Software Architecture, Scalabilit
 - 🔭 Currently building innovative and industry-focused software solutions.
 - 🌱 Continuously learning and contributing to the tech community.
 - 🚀 Passionate about creating scalable and maintainable systems.
-- ⚡ Founder & Software Engineer at **Meavity SARL**.
+- ⚡ Lead Software Engineer at **Meavity SARL**.
 
 <h2><img src="https://slackmojis.com/emojis/60723-pc/download" width="30"/> Watch my contributions graph!</h2>
 
